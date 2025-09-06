@@ -31,8 +31,8 @@
                         <article>ใบอนุญาตเลขที่ 21/00296</article>
                     </div>
                     <div class="flex flex-col2 gap-8 mt-8">
-                        <img src="{{ asset('images/Ellipse 6.svg') }}" alt="" width="60px" height="60px">
-                        <img src="{{ asset('images/Ellipse 7.svg') }}" alt="" width="60px" height="60px">
+                        <img src="{{ asset('images/footer/partner1.svg') }}" alt="" width="60px" height="60px">
+                        <img src="{{ asset('images/footer/partner2.svg') }}" alt="" width="60px" height="60px">
                     </div>
                 </div>
                 <div class="ml-32">
@@ -81,12 +81,12 @@
                         <article>053-818-600</article>
                     </div>
                     <div class="flex flex-col-6 mt-4 gap-3">
-                        <img src="{{ asset('images/3 57201617.svg') }}" alt="" width="22px" height="22px">
-                        <img src="{{ asset('images/4 1.svg') }}" alt="" width="22px" height="22px">
-                        <img src="{{ asset('images/5 1.svg') }}" alt="" width="22px" height="22px">
-                        <img src="{{ asset('images/6 1.svg') }}" alt="" width="22px" height="22px">
-                        <img src="{{ asset('images/7 1.svg') }}" alt="" width="22px" height="22px">
-                        <img src="{{ asset('images/8 1.svg') }}" alt="" width="22px" height="22px">
+                        <img src="{{ asset('images/footer/footerface.svg') }}" alt="" width="22px" height="22px">
+                        <img src="{{ asset('images/footer/footerline.svg') }}" alt="" width="22px" height="22px">
+                        <img src="{{ asset('images/footer/footerig.svg') }}" alt="" width="22px" height="22px">
+                        <img src="{{ asset('images/footer/footertiktok.svg') }}" alt="" width="22px" height="22px">
+                        <img src="{{ asset('images/footer/footerwechat.svg') }}" alt="" width="22px" height="22px">
+                        <img src="{{ asset('images/footer/footerwhatsapp.svg') }}" alt="" width="22px" height="22px">
                     </div>
                     <div class="mt-12">
                         <div class="font-bold">
